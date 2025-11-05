@@ -1,0 +1,19 @@
+This Power BI dashboard presents a comprehensive analysis of Netflix’s global catalog of movies and TV shows. The project explores key dimensions such as content distribution, release trends, production countries, average durations, and audience ratings. It demonstrates the use of data modeling, transformation, and visualization techniques to extract meaningful insights from raw data.
+
+Key analyses and visualizations include:
+
+Distribution and comparison of Movies and TV Shows across the platform.
+
+Year-wise trend of movies and TV shows added to Netflix.
+
+Country-level representation of content production.
+
+Analysis of average movie runtime and average number of TV show seasons.
+
+Distribution of content across different audience ratings.
+
+Year-wise variation in average movie duration and average TV show seasons.
+
+Identification of the most common genres with the highest volume of content.
+
+The dashboard provides a clear, data-driven understanding of how Netflix’s content portfolio has evolved over time and showcases analytical and visualization capabilities using Power BI.
