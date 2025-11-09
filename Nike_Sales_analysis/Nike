@@ -1,1 +1,2 @@
 
+This project analyzes Nike’s sales performance using a dataset containing 2,500 transactions across multiple product lines, regions, and sales channels. The goal was to explore sales trends, pricing behavior, and product performance through Exploratory Data Analysis (EDA) in Python (Pandas) and interactive dashboards in Power BI.
